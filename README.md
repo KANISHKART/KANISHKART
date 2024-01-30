@@ -1,6 +1,7 @@
-- 👋 Hi, I’m KANISHKAR T
-- 👀 I’m interested in learning Web development, Deep learning, Image processing.
-- 🌱 Full-stack web developer.
+- 👋 Hi, I’m KANISHKAR,
+- 👀 I’m interested in learning web development & related technologies and AI technologies.
+- 🌱 4+ years of experience as a software developer.
+- 🏫 Pursuing masters in advanced software development in Ireland.
 - 📫 Email: kanishkar.thiruna@gmail.com
 
 
