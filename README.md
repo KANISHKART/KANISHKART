@@ -5,8 +5,8 @@
 - 📍 Dublin, Ireland.
 - 📫 Email: kanishkar.thiruna@gmail.com
 
-![kanishkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkart&show_icons=true&theme=graywhite) 
+![kanishkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkart&show_icons=true&theme=tokyonight) [![GitHub Streak](https://streak-stats.demolab.com?user=kanishkart&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkart&hide_progress=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kanishkart&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
