@@ -5,4 +5,6 @@
 - 📍 Dublin, Ireland.
 - 📫 Email: kanishkar.thiruna@gmail.com
 
+[![kanishkar GitHub stats](https://github-readme-stats.vercel.app/api?username=kanishkart)](https://github.com/kanishkart/github-readme-stats)
+
 
