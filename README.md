@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,postgres,mongo,js,ts,html,css,nodejs,spring,react,angular,express,fastapi,kafka,git,kubernetes,docker,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,haskell,prolog,mysql,postgres,mongo,js,ts,html,css,nodejs,spring,react,angular,express,fastapi,kafka,git,kubernetes,docker,jenkins,aws" />
 </a>
 
 ## 👨🏻‍💻 Current Projects / Learnings
