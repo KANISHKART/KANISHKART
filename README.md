@@ -16,7 +16,7 @@
 </a>
 
 ## 👨🏻‍💻 Current Projects / Learnings
-- Loopost [WIP] - Side project
+- Interactive Youtube [WIP] - Side project
 - AWS Associate Developer [WIP] - Certification
 
 
